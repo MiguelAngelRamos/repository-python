@@ -1,0 +1,7 @@
+print("1. Llenar la cafeta con agua.")
+print("2. Colocar un filtro en el portafiltro.")
+print("3. Añadir la capsula a la cafetera.")
+print("4. Encender la cafetera.")
+print("5. Espera que el cafe llene la taza.")
+print("6. Apagar la cafetera")
+print("7. El cafe esta listo a disfrutar!")
