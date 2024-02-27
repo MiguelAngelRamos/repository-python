@@ -1,5 +1,6 @@
 # Creación de una lista
 # Los indices de una lista comienzan desde 0
+# Array, Arreglos o Vectores -> listas
 mi_lista = [1, 2, 3, 4, 5]
 #  indices  0, 1, 2, 3, 4
 print("Lista: ", mi_lista)
