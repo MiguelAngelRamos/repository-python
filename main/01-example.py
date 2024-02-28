@@ -21,13 +21,14 @@ def execute():
         lado = float(input("Ingrese el lado del cuadrado: "))
         print(f"El área del cuadrado es: {area_cuadrado(lado)}")
     elif opcion == '2':
-        radio = float(input("Ingrese el radio del circulo"))
+        radio = float(input("Ingrese el radio del circulo: "))
         print(f"El área del circulo es: {area_circulo(radio)}")
     elif opcion == '3':
-        base = float(input("Ingrese la base del rectangulo"))
-        altura = float(input("Ingrese la altura del rectangulo"))
+        base = float(input("Ingrese la base del rectangulo: "))
+        altura = float(input("Ingrese la altura del rectangulo: "))
         print(f"El area del rectangulo es: {area_rectangulo(base, altura)}")
-
+    else:
+        print("Opción no válida")
 
 if __name__ == "__main__":
     execute()
