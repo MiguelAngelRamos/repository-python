@@ -3,7 +3,7 @@ from . import contactos
 def add_contacto(nombre, telefono):
     contacto = {"nombre": nombre, "telefono": telefono}
     contactos.append(contacto)
-    print("Contacto añadido correctamente.")
+    print("**** Contacto añadido correctamente. ****")
 
 def mostrar_contactos():
     if contactos:
