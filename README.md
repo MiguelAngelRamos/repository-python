@@ -23,4 +23,6 @@
       print("No puedes ir a ver la peli")
 
 
+  20 % 5 = 3
+  5
 ```

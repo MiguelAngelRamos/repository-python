@@ -36,7 +36,7 @@ def simular_prestamo():
     else:
         print("No hay stock suficiente para el préstamos solicitado")
 
-    contador_operaciones = contador_operaciones + 1;
+    contador_operaciones = contador_operaciones + 1
     verificar_notificaciones()
 
 def verificar_notificaciones():
